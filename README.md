@@ -1,30 +1,33 @@
+# Olá, eu sou o Fernando Henrique Zandonadi 👋
 
-# Fernando Alves
+Desenvolvedor de Software Pleno com **7 anos de experiência** no ciclo completo de desenvolvimento. Atualmente focado em arquiteturas robustas com Java/Angular e expandindo horizontes acadêmicos em **IA e Automação Digital**.
 
-## Olá pessoal 👋
+---
 
-Sou um Desenvolvedor de Software :computer:
+### 🛠️ Stacks & Experiência
 
-- 🔭 &nbsp; Estou trabalhando no **CITS - Centro Internacional de Tecnologia de Software**
-- 🌱 &nbsp; Atualmente estou aprendendo React, Flutter, Docker
-- 👯 &nbsp; Buscando colaborar com projetos em Front-end e Back-end; 
-- :computer: &nbsp; Minha stack: Java, Spring Framework, Angular & Typescript
-- 💬  &nbsp; Sobre mim: Pai do Samuel, curto tecnologias e games 
-- :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FernandoAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-henrique-288987104)](https://www.linkedin.com/in/fernando-henrique-288987104) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-fernando.hnrq@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.hnrq@gmail.com)](mailto:fernando.hnrq@gmail.com)
+- **Main Stack:** Java (Spring Boot) & Angular.
+- **Ecossistema:** .NET (C#), Python, TypeScript, Flutter.
+- **Bancos de Dados:** Experiência com SQL e NoSQL.
+- **Diferencial:** Graduando em IA e Automação Digital, buscando integrar inteligência de dados a soluções corporativas.
 
-<!--
-**FernandoHeimrik/FernandoHeimrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 Foco Acadêmico & Pessoal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Como atuo no mercado corporativo há 7 anos, meus principais projetos de larga escala residem em ambientes privados. Aqui no GitHub, foco em:
+
+- **Estudos de IA:** Repositórios da graduação em IA e Automação Digital.
+- **Laboratório Técnico:** Testes de novas tecnologias e refatoração de conceitos de arquitetura.
+- **PoCs (Proof of Concept):** Protótipos de automação e lógica de programação.
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/fernandozandonadi))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.hnrq@gmail.com)
+
+---
+
+*"Construindo sistemas sólidos hoje, enquanto desenho o amanhã com IA."*
